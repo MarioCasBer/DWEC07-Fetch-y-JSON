@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+.titulo {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+select{
+    width: auto;
+    margin: 1em;
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    gap: 15px;
+    justify-content: center;
+    
+}
+
+.articulo {
+    display: flex;
+    flex-direction: column;
+    width: 400px; /* Establecemos un ancho fijo para el bloque articulo */
+    margin-top: 1em;
+}
+
+/* Estilo para las imágenes dentro de los artículos */
+.articulo img {
+    max-height: 150px;
+    object-fit: contain;
+}
+
+h2,p,img{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
