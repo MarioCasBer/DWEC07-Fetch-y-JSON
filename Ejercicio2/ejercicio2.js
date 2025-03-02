@@ -2,8 +2,8 @@
 const body = document.body;
 
 //------URLs DE ENLACE Y CONSULTA------
-const urlDatos = 'http://www.raulserranoweb.es/tienda/rest.php';
-const urlImg = 'http://www.raulserranoweb.es/tienda/imagenes_art';
+const urlDatos = 'https://www.raulserranoweb.es/tienda/rest.php';
+const urlImg = 'https://www.raulserranoweb.es/tienda/imagenes_art';
 
 
 //------TITULO DE LA PAGINA------
